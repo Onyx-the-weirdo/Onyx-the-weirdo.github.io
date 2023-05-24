@@ -1,0 +1,58 @@
+<html>
+
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Chakra+Petch&family=Foldit&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background-image: url(https://images.unsplash.com/photo-1454177697940-c43d9f9a7307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80)
+      }
+
+      p {
+        color: white
+      }
+
+      p {
+        font-family: Chakra Petch
+      }
+      p{
+        text-align: center
+      }
+
+      h1 {
+        color: white
+      }
+
+      h1 {
+        text-align: center
+      }
+
+      h1 {
+        font-family: Bruno Ace
+      }
+      h2{
+        font-family: Bruno Ace
+      }
+
+    </style>
+    <title>Just a normal site</title>
+  </head>
+
+  <body>
+
+    <h1><u>Happy birthday, Sally!</u></h1>
+    <p>Hello, my friend, I wish you a nice and happy birthday!</p>
+    <p>I decided to make a website for you this year</p>
+    <div class="tenor-gif-embed" data-postid="25904467" data-share-method="host" data-aspect-ratio="1.31687" data-width="30%"><a href="https://tenor.com/view/love-gif-25904467">Love GIF</a>from <a href="https://tenor.com/search/love-gifs">Love GIFs</a></div>
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <h2>
+      how about some...
+    </h2>
+    <iframe width="360" height="215" src="https://www.youtube.com/embed/tbTdFzridEI" playlist=tbTdFzridEI loop=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" autoplay=1></iframe>
+    <p ><br><br><br>
+    But, yeah... I hope this birthday is great but that the ones to come will be great, too!<br>I hope I can be at your birthdays for as long as possible.<br> Like, if immortality was possible, I'd find a way to do it so that me, you, Chris, Aiko, etc could always be there for each other's birthdays.<br>You are one of the only people, if not the only person, who has genuinely gotten happy tears out of me <br> I don't know what I'd do without you, Sal, but I'm glad that I live in a world where we both exist haha. <br> I love you (platonically of course) and I'm so glad that I ever met you.
+    </p>
+  </body>
+
+</html>
